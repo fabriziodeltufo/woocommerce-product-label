@@ -1,0 +1,32 @@
+/* wooprolab style css */
+
+/* CART - CUSTOM CODE STYLE */
+
+.woocommerce td.product-name dl.variation{
+  margin:0;
+  font-weight: bold;
+
+}
+
+.woocommerce td.product-name dl.variation p{
+  margin: 0;
+  font-weight: normal;
+
+}
+
+.woocommerce td.product-name a{
+      font-weight: bold;
+}
+
+
+/* MINICART - CUSTOM CODE STYLE */
+
+.woocommerce ul.cart_list li dl, .woocommerce ul.product_list_widget li dl dd{
+  margin:0;
+  padding:0;
+}
+
+.woocommerce ul.cart_list li dl, .woocommerce ul.product_list_widget li dl dd p{
+  margin:0;
+  padding:0;
+}
